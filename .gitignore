@@ -2,7 +2,6 @@ debug*
 documentation.list
 harbour-phototools
 harbour-phototools.pro.user*
-rpm/harbour-phototools.spec
 RPMS/
 Makefile
 *.o
